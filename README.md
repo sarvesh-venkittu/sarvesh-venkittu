@@ -26,4 +26,3 @@ Open to new opportunities and eager to contribute. Let's connect and explore how
 
 ### Here is my [machine learning portfolio](https://github.com/sarvesh-venkittu/MachineLearning)
 ### Here is my [data science portfolio](https://github.com/sarvesh-venkittu/DataScience)
-### Here are some of the [projects](https://github.com/me50/sarvesh-venkittu/tree/main) I worked on during the summer of 2023 while taking CS50AI 
