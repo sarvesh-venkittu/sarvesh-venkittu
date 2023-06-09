@@ -20,5 +20,4 @@ Open to new opportunities and eager to contribute. Let's connect and explore how
 
 ---
 
-### Here is my [machine learning portfolio](https://github.com/sarvesh-venkittu/MachineLearning)
-### Here is my [data science portfolio](https://github.com/sarvesh-venkittu/DataScience)
+### Here is my [portfolio](https://github.com/sarvesh-venkittu/MachineLearning)
