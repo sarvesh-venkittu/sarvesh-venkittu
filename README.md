@@ -2,7 +2,7 @@
 
 ## Here is a brief introduction about myself.
 
-I am an experienced Mechanical Engineering student with a passion for the applications of AI and ML. Currently pursuing a major in Mechanical Engineering and a minor in Philosophy at Duke University.
+I am an experienced Mechanical Engineering student with a passion for the applications of AI and ML. Currently pursuing a major in Mechanical Engineering  at Duke University.
 
 I am driven to leverage my technical background and passion for AI to extract meaningful insights from data and contribute to the development of intelligent systems. With a solid foundation in engineering and a strong focus on AI, I am equipped to bring valuable perspectives to complex data-driven challenges.
 
