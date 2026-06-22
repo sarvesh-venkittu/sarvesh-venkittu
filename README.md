@@ -55,7 +55,6 @@ I want to work at the interface of AI and real operations — deploying models i
 ## Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sarveshvenkittu)
-- 🐙 [GitHub](https://github.com/sarveshvenkittu)
 
 ---
 
