@@ -8,10 +8,24 @@ Manufacturing Process Engineer at Procter & Gamble by day, building AI tools tha
 
 At P&G's Browns Summit facility, I lead process engineering on W Line and build internal AI tooling — rate-loss analyzers, PM traceability audits, equipment troubleshooter chatbots. Stuff that cuts investigation time and gets operators answers faster.
 
-Outside of work, I build portfolio projects at the intersection of AI and operations:
+## Currently working on
 
-- 🔧 **RAG-based troubleshooting agent** — production-style retrieval pipeline for equipment diagnostics
+- 🔧 **RAG-based troubleshooting agent** — retrieval pipeline for equipment diagnostics
 - 📋 **Ops problem-statement generator** — structured AI tool for manufacturing problem framing
+- 🏭 Building reusable AI workflows for manufacturing ops — PM audits, loss analysis, equipment troubleshooting
+
+*(Internal projects being scrubbed for public release)*
+
+---
+
+## Public projects
+
+From CS50AI (Summer 2023):
+
+- 🚢 **titanic.py** — survival prediction model
+- 🛍️ **shopping.py** — purchase intent classifier for e-commerce
+- 🛑 **traffic.py** — stop sign detection and classification (computer vision)
+- 🤔 **questions.py** — NLP-based question answering AI
 
 ---
 
@@ -41,6 +55,7 @@ I want to work at the interface of AI and real operations — deploying models i
 ## Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sarveshvenkittu)
+- 🐙 [GitHub](https://github.com/sarveshvenkittu)
 
 ---
 
