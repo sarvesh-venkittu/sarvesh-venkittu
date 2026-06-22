@@ -14,8 +14,6 @@ At P&G's Browns Summit facility, I lead process engineering on W Line and build 
 - 📋 **Ops problem-statement generator** — structured AI tool for manufacturing problem framing
 - 🏭 Building reusable AI workflows for manufacturing ops — PM audits, loss analysis, equipment troubleshooting
 
-*(Internal projects being scrubbed for public release)*
-
 ---
 
 ## Public projects
