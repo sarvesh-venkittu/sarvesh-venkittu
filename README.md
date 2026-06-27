@@ -1,6 +1,6 @@
 # Hey, I'm Sarvesh 👋
 
-Manufacturing Process Engineer at Procter & Gamble by day, building AI tools that actually ship by night.
+Manufacturing Process Engineer at Procter & Gamble building AI tools in operations.
 
 ---
 
