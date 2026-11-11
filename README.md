@@ -16,6 +16,13 @@ At P&G's Browns Summit facility, I lead process engineering on W Line and build 
 
 ---
 
+## Recent projects
+
+- 🏋️ **[Akmon Fitness](https://forge-fitness-orcin-two.vercel.app)**: an iPhone training app that plays like a game. Pick a character, get a fresh workout sized to the time you have, and the app handles progressive overload, recovery and a balanced week. Readiness from Apple Health, story campaigns with boss fights, an on-device AI coach, iCloud sync. *Swift · SwiftUI · HealthKit · CloudKit · StoreKit 2. Coming soon to the App Store.*
+- 📚 **[Tamil Concordance](https://github.com/sarvesh-venkittu/tamil-concordance)**: a Mac app that finds every occurrence of a word across your own [Project Madurai](https://www.projectmadurai.org/) books. Type in English letters, pick the Tamil word, and see matches by book, page and verse, including inflected forms and compounds. Decodes legacy TSCII and scrambled Unicode PDFs and works offline. *JavaScript · Electron.*
+
+---
+
 ## Public projects
 
 From CS50AI (Summer 2023):
